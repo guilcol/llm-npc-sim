@@ -1,4 +1,4 @@
-# NPC Sandbox (working title)
+# llm-npc-sim
 
 A browser-based 3D sandbox where you talk to LLM-driven NPCs and ask them to do things. The LLM decides what an NPC tries. The world decides what happens.
 
